@@ -1,0 +1,17 @@
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.AdmissibleClass
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.BridgeLemmas
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.GateLemmas
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.FinalTheorem
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.StratigraphyPackage
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.ChronologyPackage
+import AnthropologyArchaeologicalTheoryCanonicalLaneLean.CulturalEvolutionPackage
+
+/-! # Anthropology Archaeological Theory Canonical Lane Lean -/
+
+namespace HautevilleHouse
+namespace AnthropologyArchaeologicalTheoryCanonicalLaneLean
+
+-- This module assembles the full package.
+
+end AnthropologyArchaeologicalTheoryCanonicalLaneLean
+end HautevilleHouse
